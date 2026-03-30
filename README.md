@@ -1,6 +1,4 @@
-Got it! Based on your request, I’ll help you craft a **GitHub profile README**. This is a personalized profile page that you can add to your GitHub repository. Here’s a polished version of the README for your profile:
 
----
 
 # 💫 About Me
 
