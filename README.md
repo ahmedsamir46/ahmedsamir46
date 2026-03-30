@@ -27,12 +27,12 @@ Feel free to ask me about **Software Engineering**, **AI** integration, **.NET**
 
 ## 📊 GitHub Stats:
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AhmedSamir46\&theme=dark\&hide_border=false\&include_all_commits=true\&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedSamir46\&theme=dark\&hide_border=false\&include_all_commits=true\&count_private=true\&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahmedsamir46\&theme=dark\&hide_border=false\&include_all_commits=true\&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedsamir46\&theme=dark\&hide_border=false\&include_all_commits=true\&count_private=true\&layout=compact)
 
 ## 🏆 GitHub Trophies
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=AhmedSamir46\&theme=radical\&no-frame=false\&no-bg=false\&margin-w=4)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ahmedsamir46\&theme=radical\&no-frame=false\&no-bg=false\&margin-w=4)
 
 ## ✍️ Random Dev Quote
 
@@ -46,10 +46,10 @@ Feel free to ask me about **Software Engineering**, **AI** integration, **.NET**
 
 ## 🌐 Portfolio and Projects:
 
-* [My Portfolio](https://ahmedsamir45.github.io/my-portfolio-/)
-* [Image-to-Caption Research Project](https://github.com/ahmedsamir45/image-to-caption-research-project)
-* [AI-based Text Summarization & RAG System](https://github.com/ahmedsamir45/tytopya)
-* [Social Media App](https://github.com/ahmedsamir45/social_media_app)
+* [My Portfolio](https://ahmedsamir45.github.io/portfolio/)
+* [Image-to-Caption Research Project](https://github.com/ahmedsamir45/Image-Caption-System)
+* [AI-based Text Summarization & RAG System](https://github.com/ahmedsamir45/Tytopya)
+* [Social Media App](https://github.com/ahmedsamir45/UR-Social)
 * [Big Skills - Skills Tracking App](https://github.com/ahmedsamir45/Big-Skills)
 
 ---
@@ -74,6 +74,4 @@ Feel free to ask me about **Software Engineering**, **AI** integration, **.NET**
 
 I'm always open to collaborations and learning from others. Currently, I'm focusing on building scalable, cloud-based applications and enhancing AI-based systems. Feel free to reach out for any **Django**, **AI**, or **.NET** related projects!
 
----
 
-This will provide a professional, clean, and detailed profile that effectively showcases your skills, projects, and certifications. Let me know if you want to add anything else or adjust the details!
