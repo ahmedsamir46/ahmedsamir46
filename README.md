@@ -49,6 +49,7 @@ Feel free to ask me about **Software Engineering**, **AI** integration, **.NET**
 * [Scientific Computing with Python - freeCodeCamp](https://www.freecodecamp.org/certification/fccad483319-b547-4c8b-bc95-1dc91cea614d/scientific-computing-with-python-v7)
 * [Python Web Pro - Udemy](https://www.udemy.com/certificate/UC-c36278c7-b476-4e2c-b331-1c2aa05c2f7f/)
 * [Data Analysis with Python - freeCodeCamp](https://www.freecodecamp.org/certification/fccad483319-b547-4c8b-bc95-1dc91cea614d/data-analysis-with-python-v7)
+* [All Certfications]([https://www.freecodecamp.org/certification/fccad483319-b547-4c8b-bc95-1dc91cea614d/data-analysis-with-python-v7](https://drive.google.com/drive/u/1/folders/1X_cy_E-Z1xdCYmIClgDEMCGJGSvOdDvn))
 
 ---
 
