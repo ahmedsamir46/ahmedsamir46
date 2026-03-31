@@ -2,9 +2,12 @@
 
 # 💫 About Me
 
-Hi there, I'm **Ahmed Samir**, a passionate Full Stack Developer with expertise in backend and frontend development. Currently, I'm focused on working on a **Doctor Management System**, collaborating on a **cloud-based RAG system**, and learning **.NET**.
+Hi, I'm Ahmed Samir!
+I'm a passionate Full Stack Developer with expertise in both backend and frontend development, I'm also learning .NET to expand my skill set.
 
-Feel free to ask me about **Software Engineering**, **AI** integration, **.NET** development, or anything related to my tech stack!
+I have a solid foundation in web technologies, including Django, Flask, RESTful APIs, HTML, CSS, JavaScript, React, and Bootstrap. Along with that, I have experience in cybersecurity and integrating AI into web solutions.
+
+I’m always eager to solve problems, learn new technologies, and contribute to innovative projects. Feel free to reach out to discuss Software Engineering, AI, or anything related to my tech stack!
 
 ## 🌐 Socials:
 
@@ -49,7 +52,7 @@ Feel free to ask me about **Software Engineering**, **AI** integration, **.NET**
 * [Scientific Computing with Python - freeCodeCamp](https://www.freecodecamp.org/certification/fccad483319-b547-4c8b-bc95-1dc91cea614d/scientific-computing-with-python-v7)
 * [Python Web Pro - Udemy](https://www.udemy.com/certificate/UC-c36278c7-b476-4e2c-b331-1c2aa05c2f7f/)
 * [Data Analysis with Python - freeCodeCamp](https://www.freecodecamp.org/certification/fccad483319-b547-4c8b-bc95-1dc91cea614d/data-analysis-with-python-v7)
-* [All Certfications]([https://www.freecodecamp.org/certification/fccad483319-b547-4c8b-bc95-1dc91cea614d/data-analysis-with-python-v7](https://drive.google.com/drive/u/1/folders/1X_cy_E-Z1xdCYmIClgDEMCGJGSvOdDvn))
+* [All Certfications](https://drive.google.com/drive/u/1/folders/1X_cy_E-Z1xdCYmIClgDEMCGJGSvOdDvn)
 
 ---
 
