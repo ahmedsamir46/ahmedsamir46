@@ -11,7 +11,7 @@
 <br/>
 
 <!-- Animated profile views counter -->
-<img src="https://komarev.com/ghpvc/?username=ahmedsamir45&style=for-the-badge&color=0891b2&labelColor=1c1917" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=ahmedsamir46&style=for-the-badge&color=0891b2&labelColor=1c1917" alt="Profile Views"/>
 
 </div>
 
@@ -38,10 +38,10 @@ I'm always eager to solve problems, learn new technologies, and contribute to in
 <div align="center">
 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white&style=for-the-badge)](https://discord.gg/G4g6ZEvD)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/ahmedsamir45/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/ahmedsamir46/)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white&style=for-the-badge)](https://youtube.com/@AhmedSamir-sh1eq)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:ahmedsamer6788@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=firefox&logoColor=white&style=for-the-badge)](https://ahmedsamir45.github.io/portfolio/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=firefox&logoColor=white&style=for-the-badge)](https://ahmedsamir46.github.io/portfolio/)
 
 </div>
 
@@ -97,7 +97,7 @@ I'm always eager to solve problems, learn new technologies, and contribute to in
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150468.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
@@ -127,11 +127,11 @@ I'm always eager to solve problems, learn new technologies, and contribute to in
 
 | 🚀 Project | 📝 Description |
 |-----------|---------------|
-| [**My Portfolio**](https://ahmedsamir45.github.io/portfolio/) | Personal portfolio showcasing my work |
-| [**Image-to-Caption Research**](https://github.com/ahmedsamir45/Image-Caption-System) | AI-powered image captioning system |
-| [**AI Text Summarization & RAG**](https://github.com/ahmedsamir45/Tytopya) | RAG-based text summarization system |
-| [**Social Media App**](https://github.com/ahmedsamir45/UR-Social) | Full-stack social networking platform |
-| [**Big Skills**](https://github.com/ahmedsamir45/Big-Skills) | Skills tracking application |
+| [**My Portfolio**](https://ahmedsamir46.github.io/portfolio/) | Personal portfolio showcasing my work |
+| [**Image-to-Caption Research**](https://github.com/ahmedsamir46/Image-Caption-System) | AI-powered image captioning system |
+| [**AI Text Summarization & RAG**](https://github.com/ahmedsamir46/Tytopya) | RAG-based text summarization system |
+| [**Social Media App**](https://github.com/ahmedsamir46/UR-Social) | Full-stack social networking platform |
+| [**Big Skills**](https://github.com/ahmedsamir46/Big-Skills) | Skills tracking application |
 
 </div>
 
