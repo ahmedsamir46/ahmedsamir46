@@ -127,7 +127,6 @@ I'm always eager to solve problems, learn new technologies, and contribute to in
 
 | 🚀 Project | 📝 Description |
 |-----------|---------------|
-| [**My Portfolio**](https://ahmedsamir46.github.io/portfolio/) | Personal portfolio showcasing my work |
 | [**Image-to-Caption Research**](https://github.com/ahmedsamir46/Image-Caption-System) | AI-powered image captioning system |
 | [**AI Text Summarization & RAG**](https://github.com/ahmedsamir46/Tytopya) | RAG-based text summarization system |
 | [**Social Media App**](https://github.com/ahmedsamir46/UR-Social) | Full-stack social networking platform |
